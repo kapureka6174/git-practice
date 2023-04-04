@@ -1,2 +1,3 @@
 “Hello Git Practice”
 "developブランチでの編集内容"
+"間違いのある内容を追加"
