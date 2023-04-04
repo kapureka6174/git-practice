@@ -1,1 +1,2 @@
 “Hello Git Practice”
+"mainブランチからの編集を追加"
