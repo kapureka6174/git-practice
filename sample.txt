@@ -1,2 +1,2 @@
 “Hello Git Practice”
-"developブランチから編集を追加"
+"developブランチでの編集内容"
